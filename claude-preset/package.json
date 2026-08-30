@@ -1,0 +1,5 @@
+{
+  "name": "claude-agent-preset",
+  "private": true,
+  "type": "module"
+}

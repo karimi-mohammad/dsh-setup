@@ -1,0 +1,6 @@
+name: Claude Mode
+description: >-
+  Full coding agent wired for Claude Code projects: auto-injects the
+  AGENTS.md / CLAUDE.md instruction chain and discovers skills from each
+  project's .dsh/skills, .claude/skills and .agents/skills, plus global
+  ~/.claude/skills. Exposes .claude/commands as native slash commands.
